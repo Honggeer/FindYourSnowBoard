@@ -1,0 +1,1755 @@
+{
+  "version": "2024-25",
+  "last_updated": "2025-01-01",
+  "boards": [
+    {
+      "id": "burton-custom-2025",
+      "name": "Custom",
+      "brand": "Burton",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 599,
+      "image": "",
+      "lengths": [
+        150,
+        152,
+        154,
+        156,
+        158,
+        160,
+        162
+      ],
+      "flex": 6,
+      "profile": "camber",
+      "shape": "directional",
+      "waist_width_mm": {
+        "150": 248,
+        "154": 251,
+        "158": 255,
+        "162": 258
+      },
+      "terrain": [
+        "groomed",
+        "all-mountain",
+        "backcountry"
+      ],
+      "style": [
+        "all-mountain",
+        "carving"
+      ],
+      "level": [
+        "intermediate",
+        "advanced"
+      ],
+      "weight_range_kg": {
+        "min": 60,
+        "max": 95
+      },
+      "height_range_cm": {
+        "min": 163,
+        "max": 193
+      },
+      "description_en": "The go-to all-mountain board. Camber profile delivers precise edge hold on groomers and confidence in variable snow.",
+      "description_zh": "全山经典之作，Camber 板型在压雪道和复杂雪况下均表现出色，是进阶全山玩法的理想选择。",
+      "pros_en": [
+        "Excellent edge hold",
+        "Versatile in all conditions",
+        "Proven design"
+      ],
+      "pros_zh": [
+        "刻滑精准",
+        "全地形通吃",
+        "经久不衰的经典设计"
+      ],
+      "cons_en": [
+        "Stiff for beginners",
+        "Less playful in park"
+      ],
+      "cons_zh": [
+        "初学者偏硬",
+        "公园玩法稍显局限"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/burton-custom-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "all-mountain",
+        "camber",
+        "burton",
+        "intermediate",
+        "advanced"
+      ]
+    },
+    {
+      "id": "capita-doa-2025",
+      "name": "D.O.A. (Defenders of Awesome)",
+      "brand": "Capita",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 549,
+      "image": "",
+      "lengths": [
+        148,
+        150,
+        152,
+        154,
+        156,
+        158,
+        160,
+        162
+      ],
+      "flex": 6,
+      "profile": "camber",
+      "shape": "true-twin",
+      "waist_width_mm": {
+        "150": 250,
+        "154": 252,
+        "158": 255,
+        "162": 258
+      },
+      "terrain": [
+        "groomed",
+        "all-mountain",
+        "park"
+      ],
+      "style": [
+        "all-mountain",
+        "park"
+      ],
+      "level": [
+        "intermediate",
+        "advanced"
+      ],
+      "weight_range_kg": {
+        "min": 55,
+        "max": 90
+      },
+      "height_range_cm": {
+        "min": 160,
+        "max": 190
+      },
+      "description_en": "A true twin camber beast that shreds everything. The most versatile board in Capita's lineup — equally at home in the park or on hardpack.",
+      "description_zh": "真正的双向 Camber 全能板，公园、压雪道无缝切换，是追求全面技术的骑手的首选。",
+      "pros_en": [
+        "True twin = switch riding",
+        "Aggressive camber pop",
+        "All-mountain dominance"
+      ],
+      "pros_zh": [
+        "双向骑行无压力",
+        "弹跳感强烈",
+        "全山地形通杀"
+      ],
+      "cons_en": [
+        "Too stiff for powder",
+        "Pricier than similar boards"
+      ],
+      "cons_zh": [
+        "粉雪浮力不足",
+        "价格偏高"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/capita-defenders-of-awesome-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "all-mountain",
+        "park",
+        "camber",
+        "capita",
+        "twin",
+        "intermediate",
+        "advanced"
+      ]
+    },
+    {
+      "id": "jones-flagship-2025",
+      "name": "Flagship",
+      "brand": "Jones",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 649,
+      "image": "",
+      "lengths": [
+        152,
+        154,
+        156,
+        158,
+        160,
+        162,
+        164
+      ],
+      "flex": 7,
+      "profile": "camber",
+      "shape": "directional",
+      "waist_width_mm": {
+        "154": 252,
+        "158": 255,
+        "162": 259,
+        "164": 261
+      },
+      "terrain": [
+        "groomed",
+        "all-mountain",
+        "backcountry",
+        "powder"
+      ],
+      "style": [
+        "carving"
+      ],
+      "level": [
+        "advanced",
+        "expert"
+      ],
+      "weight_range_kg": {
+        "min": 68,
+        "max": 100
+      },
+      "height_range_cm": {
+        "min": 170,
+        "max": 198
+      },
+      "description_en": "Jones' flagship all-mountain freeride board. Built for riders who charge hard in all conditions, from hardpack to deep pow.",
+      "description_zh": "Jones 旗舰全山自由骑板，专为激进骑行风格打造，无论硬雪还是深粉都能掌控自如。",
+      "pros_en": [
+        "Powerful edge hold",
+        "Handles variable snow brilliantly",
+        "Eco-friendly construction"
+      ],
+      "pros_zh": [
+        "强悍的锁雪能力",
+        "复杂雪况表现出色",
+        "环保工艺"
+      ],
+      "cons_en": [
+        "Heavy, not for park",
+        "Overkill for beginners"
+      ],
+      "cons_zh": [
+        "偏重，不适合公园",
+        "初学者过于激进"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/jones-flagship-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "freeride",
+        "all-mountain",
+        "camber",
+        "jones",
+        "advanced",
+        "expert"
+      ]
+    },
+    {
+      "id": "salomon-assassin-2025",
+      "name": "Assassin",
+      "brand": "Salomon",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 499,
+      "image": "",
+      "lengths": [
+        149,
+        152,
+        155,
+        158,
+        161,
+        163
+      ],
+      "flex": 7,
+      "profile": "camber",
+      "shape": "directional",
+      "waist_width_mm": {
+        "152": 252,
+        "155": 254,
+        "158": 256
+      },
+      "terrain": [
+        "groomed",
+        "all-mountain"
+      ],
+      "style": [
+        "carving",
+        "all-mountain"
+      ],
+      "level": [
+        "intermediate",
+        "advanced"
+      ],
+      "weight_range_kg": {
+        "min": 60,
+        "max": 92
+      },
+      "height_range_cm": {
+        "min": 163,
+        "max": 192
+      },
+      "description_en": "Salomon's all-mountain powerhouse. Stiff, fast, and precise — built to dominate every run on the mountain.",
+      "description_zh": "Salomon 全山力作，硬、快、精准，适合追求速度和稳定性的骑手。",
+      "pros_en": [
+        "Extremely responsive",
+        "Great at speed",
+        "Durable construction"
+      ],
+      "pros_zh": [
+        "响应灵敏",
+        "高速稳定性极佳",
+        "做工耐用"
+      ],
+      "cons_en": [
+        "Demanding for intermediates",
+        "Limited powder float"
+      ],
+      "cons_zh": [
+        "中级骑手压力较大",
+        "粉雪浮力有限"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/salomon-assassin-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "all-mountain",
+        "camber",
+        "salomon",
+        "intermediate",
+        "advanced"
+      ]
+    },
+    {
+      "id": "never-summer-snowtrooper-2025",
+      "name": "Snowtrooper",
+      "brand": "Never Summer",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 599,
+      "image": "",
+      "lengths": [
+        150,
+        153,
+        155,
+        157,
+        159,
+        161
+      ],
+      "flex": 5,
+      "profile": "hybrid-camber",
+      "shape": "directional",
+      "waist_width_mm": {
+        "153": 252,
+        "157": 255,
+        "161": 259
+      },
+      "terrain": [
+        "groomed",
+        "all-mountain",
+        "powder"
+      ],
+      "style": [
+        "all-mountain"
+      ],
+      "level": [
+        "intermediate",
+        "advanced"
+      ],
+      "weight_range_kg": {
+        "min": 58,
+        "max": 90
+      },
+      "height_range_cm": {
+        "min": 163,
+        "max": 190
+      },
+      "description_en": "Never Summer's hybrid camber makes this both forgiving and poppy — an excellent choice for riders who want all-mountain versatility with some freestyle flair.",
+      "description_zh": "混合 Camber 板型带来宽容性和弹性的完美平衡，适合追求全山兼freestyle的骑手。",
+      "pros_en": [
+        "Forgiving hybrid profile",
+        "Great all-day board",
+        "Quality US-made construction"
+      ],
+      "pros_zh": [
+        "混合板型更包容",
+        "全天骑行无压力",
+        "美国制造，品质保证"
+      ],
+      "cons_en": [
+        "Less aggressive than pure camber",
+        "Heavier than average"
+      ],
+      "cons_zh": [
+        "进攻性不如纯 Camber",
+        "重量偏大"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/never-summer-snowtrooper-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "all-mountain",
+        "hybrid-camber",
+        "never-summer",
+        "intermediate",
+        "advanced"
+      ]
+    },
+    {
+      "id": "burton-process-2025",
+      "name": "Process",
+      "brand": "Burton",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 499,
+      "image": "",
+      "lengths": [
+        148,
+        150,
+        152,
+        154,
+        156,
+        158,
+        160
+      ],
+      "flex": 5,
+      "profile": "flying-v",
+      "shape": "true-twin",
+      "waist_width_mm": {
+        "150": 249,
+        "154": 252,
+        "158": 255
+      },
+      "terrain": [
+        "park",
+        "groomed",
+        "all-mountain"
+      ],
+      "style": [
+        "all-mountain",
+        "groundtrick"
+      ],
+      "level": [
+        "intermediate",
+        "advanced"
+      ],
+      "weight_range_kg": {
+        "min": 55,
+        "max": 85
+      },
+      "height_range_cm": {
+        "min": 160,
+        "max": 185
+      },
+      "description_en": "Burton's go-to freestyle board with Flying V rocker/camber mix. Playful, poppy, and forgiving — perfect for riders who love park and all-mountain freestyle.",
+      "description_zh": "Burton 经典自由式板，Flying V 混合板型兼顾弹跳和包容性，公园和全山freestyle两不误。",
+      "pros_en": [
+        "Super playful feel",
+        "Great for tricks",
+        "Forgiving catch-free edges"
+      ],
+      "pros_zh": [
+        "极具趣味性",
+        "做 trick 手感绝佳",
+        "不易挂刃，容错率高"
+      ],
+      "cons_en": [
+        "Less stable at speed",
+        "Not ideal for hard carving"
+      ],
+      "cons_zh": [
+        "高速稳定性欠佳",
+        "不适合激进刻滑"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/burton-process-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "freestyle",
+        "park",
+        "flying-v",
+        "burton",
+        "twin",
+        "intermediate"
+      ]
+    },
+    {
+      "id": "gnu-riders-choice-2025",
+      "name": "Riders Choice",
+      "brand": "GNU",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 529,
+      "image": "",
+      "lengths": [
+        148,
+        150,
+        152,
+        154,
+        156,
+        158,
+        160,
+        162
+      ],
+      "flex": 6,
+      "profile": "c2",
+      "shape": "true-twin",
+      "waist_width_mm": {
+        "150": 250,
+        "154": 253,
+        "158": 256
+      },
+      "terrain": [
+        "park",
+        "groomed",
+        "all-mountain"
+      ],
+      "style": [
+        "all-mountain",
+        "park"
+      ],
+      "level": [
+        "intermediate",
+        "advanced"
+      ],
+      "weight_range_kg": {
+        "min": 55,
+        "max": 90
+      },
+      "height_range_cm": {
+        "min": 160,
+        "max": 190
+      },
+      "description_en": "GNU's legendary twin shape. The C2 BTX profile (camber between the feet, rocker outside) gives explosive pop with forgiving tips.",
+      "description_zh": "GNU 经典双向板，C2 BTX 板型在脚踩区保留 Camber 弹跳，板尖 Rocker 防挂刃，公园高手必备。",
+      "pros_en": [
+        "Explosive camber pop",
+        "Catch-free tips",
+        "Switch-friendly twin"
+      ],
+      "pros_zh": [
+        "爆发力十足",
+        "板尖不挂刃",
+        "双向骑行毫无压力"
+      ],
+      "cons_en": [
+        "Less powerful in powder",
+        "Demanding technique needed"
+      ],
+      "cons_zh": [
+        "粉雪表现一般",
+        "需要一定技术功底"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/gnu-riders-choice-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "freestyle",
+        "park",
+        "c2",
+        "gnu",
+        "twin",
+        "intermediate",
+        "advanced"
+      ]
+    },
+    {
+      "id": "k2-afterblack-2025",
+      "name": "Afterblack",
+      "brand": "K2",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 449,
+      "image": "",
+      "lengths": [
+        148,
+        150,
+        152,
+        154,
+        156,
+        158
+      ],
+      "flex": 4,
+      "profile": "flat",
+      "shape": "true-twin",
+      "waist_width_mm": {
+        "150": 248,
+        "154": 251,
+        "158": 254
+      },
+      "terrain": [
+        "park",
+        "jib",
+        "groomed"
+      ],
+      "style": [
+        "park",
+        "groundtrick"
+      ],
+      "level": [
+        "intermediate",
+        "advanced"
+      ],
+      "weight_range_kg": {
+        "min": 50,
+        "max": 82
+      },
+      "height_range_cm": {
+        "min": 157,
+        "max": 183
+      },
+      "description_en": "K2's dedicated park and jib board. Flat profile and soft flex make it the ideal choice for laps in the park, rail sessions, and urban features.",
+      "description_zh": "K2 公园专属板，平板型 + 软 flex 专为 rail、jib 和公园跳台而生，做 trick 手感一流。",
+      "pros_en": [
+        "Incredibly playful",
+        "Flat profile = jib magic",
+        "Forgiving for park learning"
+      ],
+      "pros_zh": [
+        "极度趣味性",
+        "平板型 jib 手感满分",
+        "公园入门友好"
+      ],
+      "cons_en": [
+        "Not for groomer charging",
+        "Washes out at speed"
+      ],
+      "cons_zh": [
+        "不适合高速刻滑",
+        "高速时不够稳定"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/k2-afterblack-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "park",
+        "jib",
+        "freestyle",
+        "flat",
+        "k2",
+        "twin",
+        "intermediate"
+      ]
+    },
+    {
+      "id": "jones-hovercraft-2025",
+      "name": "Hovercraft",
+      "brand": "Jones",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 599,
+      "image": "",
+      "lengths": [
+        149,
+        152,
+        154,
+        156,
+        158,
+        160
+      ],
+      "flex": 5,
+      "profile": "rocker",
+      "shape": "setback-twin",
+      "waist_width_mm": {
+        "152": 257,
+        "156": 261,
+        "160": 265
+      },
+      "terrain": [
+        "powder",
+        "backcountry",
+        "all-mountain"
+      ],
+      "style": [
+        "all-mountain"
+      ],
+      "level": [
+        "intermediate",
+        "advanced"
+      ],
+      "weight_range_kg": {
+        "min": 58,
+        "max": 90
+      },
+      "height_range_cm": {
+        "min": 163,
+        "max": 190
+      },
+      "description_en": "Jones' dedicated powder shredder. Wide waist, setback twin, and full rocker profile means it floats effortlessly on the deepest days.",
+      "description_zh": "Jones 粉雪专属板，宽腰宽 + Rocker 板型让你在深粉雪中如履平地，后退骑行同样流畅。",
+      "pros_en": [
+        "Incredible powder float",
+        "Surfy feel in powder",
+        "Switch riding capable"
+      ],
+      "pros_zh": [
+        "粉雪浮力无与伦比",
+        "粉雪中如冲浪般流畅",
+        "支持后退骑行"
+      ],
+      "cons_en": [
+        "Lacks edge hold on groomed",
+        "Not a carving board"
+      ],
+      "cons_zh": [
+        "压雪道锁雪感弱",
+        "不适合刻滑"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/jones-hovercraft-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "powder",
+        "freeride",
+        "rocker",
+        "jones",
+        "wide",
+        "intermediate",
+        "advanced"
+      ]
+    },
+    {
+      "id": "libtech-trice-orca-2025",
+      "name": "T.Rice Orca",
+      "brand": "Lib Tech",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 699,
+      "image": "",
+      "lengths": [
+        147,
+        151,
+        155,
+        159,
+        163,
+        166
+      ],
+      "flex": 7,
+      "profile": "c3-rocker",
+      "shape": "directional",
+      "waist_width_mm": {
+        "151": 258,
+        "155": 262,
+        "159": 266
+      },
+      "terrain": [
+        "powder",
+        "backcountry",
+        "all-mountain"
+      ],
+      "style": [
+        "carving"
+      ],
+      "level": [
+        "advanced",
+        "expert"
+      ],
+      "weight_range_kg": {
+        "min": 65,
+        "max": 100
+      },
+      "height_range_cm": {
+        "min": 167,
+        "max": 195
+      },
+      "description_en": "Travis Rice's signature powder and big mountain tool. The C3 profile and wide nose create a unique surfboard-like feel in deep snow.",
+      "description_zh": "Travis Rice 签名款大山粉雪利器，C3 板型配合宽板头营造出冲浪般的深雪体验，粉雪日最佳拍档。",
+      "pros_en": [
+        "Unmatched powder performance",
+        "Unique surf-like feel",
+        "Handles steep terrain"
+      ],
+      "pros_zh": [
+        "粉雪性能顶级",
+        "独特冲浪感",
+        "大坡度地形无压力"
+      ],
+      "cons_en": [
+        "Very expensive",
+        "Requires advanced skills"
+      ],
+      "cons_zh": [
+        "价格较高",
+        "需要高级骑行技术"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/lib-tech-t-rice-orca-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "powder",
+        "freeride",
+        "big-mountain",
+        "lib-tech",
+        "advanced",
+        "expert"
+      ]
+    },
+    {
+      "id": "never-summer-harpoon-2025",
+      "name": "Harpoon",
+      "brand": "Never Summer",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 549,
+      "image": "",
+      "lengths": [
+        149,
+        152,
+        155,
+        158,
+        161
+      ],
+      "flex": 6,
+      "profile": "hybrid-rocker",
+      "shape": "directional",
+      "waist_width_mm": {
+        "152": 258,
+        "155": 261,
+        "158": 264
+      },
+      "terrain": [
+        "powder",
+        "all-mountain",
+        "backcountry"
+      ],
+      "style": [
+        "all-mountain"
+      ],
+      "level": [
+        "intermediate",
+        "advanced"
+      ],
+      "weight_range_kg": {
+        "min": 60,
+        "max": 92
+      },
+      "height_range_cm": {
+        "min": 163,
+        "max": 192
+      },
+      "description_en": "Never Summer's versatile freeride board with powder-oriented hybrid rocker. Wide body floats powder while NS's camber zones give it edge hold.",
+      "description_zh": "Never Summer 全能自由骑板，混合 Rocker 板型在粉雪中浮力十足，同时保留 Camber 区域的刻滑能力。",
+      "pros_en": [
+        "Powder + groomer balance",
+        "Wide body for float",
+        "Responsive in all conditions"
+      ],
+      "pros_zh": [
+        "粉雪与压雪道的完美平衡",
+        "宽体设计增强浮力",
+        "全雪况响应灵敏"
+      ],
+      "cons_en": [
+        "Not a dedicated pow board",
+        "Heavy"
+      ],
+      "cons_zh": [
+        "非纯粉雪专属",
+        "重量偏大"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/never-summer-harpoon-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "powder",
+        "freeride",
+        "hybrid-rocker",
+        "never-summer",
+        "intermediate",
+        "advanced"
+      ]
+    },
+    {
+      "id": "jones-storm-chaser-2025",
+      "name": "Storm Chaser",
+      "brand": "Jones",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 499,
+      "image": "",
+      "lengths": [
+        147,
+        150,
+        153,
+        156,
+        159
+      ],
+      "flex": 5,
+      "profile": "hybrid-rocker",
+      "shape": "directional-twin",
+      "waist_width_mm": {
+        "150": 256,
+        "153": 259,
+        "156": 262
+      },
+      "terrain": [
+        "powder",
+        "all-mountain"
+      ],
+      "style": [
+        "all-mountain"
+      ],
+      "level": [
+        "intermediate",
+        "advanced"
+      ],
+      "weight_range_kg": {
+        "min": 58,
+        "max": 88
+      },
+      "height_range_cm": {
+        "min": 160,
+        "max": 188
+      },
+      "description_en": "Shorter and wider than a traditional board — the Storm Chaser rides like a longer board in pow while staying nimble. Great for surfy, loose powder riding.",
+      "description_zh": "比传统板短而宽，粉雪中骑起来像更长的板，同时保持机动性。追求粉雪冲浪感的骑手首选。",
+      "pros_en": [
+        "Wide body = pow float",
+        "Shorter = more nimble",
+        "Great for powder surfing"
+      ],
+      "pros_zh": [
+        "宽体增强粉雪浮力",
+        "短而灵活",
+        "粉雪冲浪感极强"
+      ],
+      "cons_en": [
+        "Sizing takes adjustment",
+        "Not ideal on groomed"
+      ],
+      "cons_zh": [
+        "尺码选择需要适应",
+        "压雪道表现一般"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/jones-storm-chaser-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "powder",
+        "freeride",
+        "hybrid-rocker",
+        "jones",
+        "wide",
+        "intermediate",
+        "advanced"
+      ]
+    },
+    {
+      "id": "burton-clash-2025",
+      "name": "Clash",
+      "brand": "Burton",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 349,
+      "image": "",
+      "lengths": [
+        148,
+        150,
+        152,
+        154,
+        156,
+        158
+      ],
+      "flex": 3,
+      "profile": "flat",
+      "shape": "directional-twin",
+      "waist_width_mm": {
+        "150": 247,
+        "154": 250,
+        "158": 253
+      },
+      "terrain": [
+        "groomed",
+        "park",
+        "all-mountain"
+      ],
+      "style": [
+        "groundtrick",
+        "all-mountain"
+      ],
+      "level": [
+        "beginner",
+        "intermediate"
+      ],
+      "weight_range_kg": {
+        "min": 45,
+        "max": 80
+      },
+      "height_range_cm": {
+        "min": 155,
+        "max": 182
+      },
+      "description_en": "Burton's entry-level all-mountain board. Soft flex and flat profile make it ultra-forgiving — perfect for progressing from beginner to intermediate.",
+      "description_zh": "Burton 入门级全山板，软 flex + 平板型极度宽容，从初级进阶到中级的理想搭档。",
+      "pros_en": [
+        "Very forgiving",
+        "Affordable price",
+        "Good for learning"
+      ],
+      "pros_zh": [
+        "极度包容",
+        "价格亲民",
+        "学习进步快"
+      ],
+      "cons_en": [
+        "Outgrown quickly by improving riders",
+        "Limited performance ceiling"
+      ],
+      "cons_zh": [
+        "水平提升后容易觉得不够用",
+        "性能天花板较低"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/burton-clash-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "beginner",
+        "all-mountain",
+        "flat",
+        "burton",
+        "soft"
+      ]
+    },
+    {
+      "id": "k2-manifest-2025",
+      "name": "Manifest",
+      "brand": "K2",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 399,
+      "image": "",
+      "lengths": [
+        150,
+        152,
+        154,
+        156,
+        158,
+        160
+      ],
+      "flex": 4,
+      "profile": "hybrid-rocker",
+      "shape": "directional-twin",
+      "waist_width_mm": {
+        "152": 250,
+        "156": 253,
+        "160": 256
+      },
+      "terrain": [
+        "groomed",
+        "all-mountain"
+      ],
+      "style": [
+        "all-mountain",
+        "groundtrick"
+      ],
+      "level": [
+        "beginner",
+        "intermediate"
+      ],
+      "weight_range_kg": {
+        "min": 50,
+        "max": 82
+      },
+      "height_range_cm": {
+        "min": 157,
+        "max": 185
+      },
+      "description_en": "K2's do-it-all beginner to intermediate board. The hybrid rocker makes it forgiving while the directional twin shape lets you ride everything.",
+      "description_zh": "K2 入门到中级的全能选择，混合 Rocker 板型宽容性强，方向性双向设计适应各类地形。",
+      "pros_en": [
+        "Approachable and fun",
+        "Good value",
+        "Grows with the rider"
+      ],
+      "pros_zh": [
+        "亲近友好，乐趣十足",
+        "性价比高",
+        "适合持续成长"
+      ],
+      "cons_en": [
+        "Not specialized for any terrain",
+        "Lacks aggressive performance"
+      ],
+      "cons_zh": [
+        "无地形专长",
+        "缺乏激进性能"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/k2-manifest-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "beginner",
+        "intermediate",
+        "all-mountain",
+        "hybrid-rocker",
+        "k2"
+      ]
+    },
+    {
+      "id": "ride-compact-2025",
+      "name": "Compact",
+      "brand": "Ride",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 299,
+      "image": "",
+      "lengths": [
+        148,
+        150,
+        152,
+        154,
+        156
+      ],
+      "flex": 3,
+      "profile": "rocker",
+      "shape": "twin",
+      "waist_width_mm": {
+        "150": 247,
+        "154": 250
+      },
+      "terrain": [
+        "groomed",
+        "park"
+      ],
+      "style": [
+        "groundtrick",
+        "park"
+      ],
+      "level": [
+        "beginner"
+      ],
+      "weight_range_kg": {
+        "min": 45,
+        "max": 72
+      },
+      "height_range_cm": {
+        "min": 155,
+        "max": 177
+      },
+      "description_en": "Ride's affordable beginner board with a full rocker profile. Very forgiving and fun for first-year riders learning the basics.",
+      "description_zh": "Ride 亲民入门款，全 Rocker 板型极度宽容，适合零基础新手快速上手。",
+      "pros_en": [
+        "Very affordable",
+        "Catch-free rocker",
+        "Easy to control"
+      ],
+      "pros_zh": [
+        "价格极实惠",
+        "Rocker 板型不挂刃",
+        "容易掌控"
+      ],
+      "cons_en": [
+        "Too soft for intermediate+",
+        "Limited lifespan for progression"
+      ],
+      "cons_zh": [
+        "中级以上骑手明显不够用",
+        "随水平提升很快被淘汰"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/ride-compact-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "beginner",
+        "rocker",
+        "ride",
+        "soft",
+        "affordable"
+      ]
+    },
+    {
+      "id": "burton-feather-2025",
+      "name": "Feather",
+      "brand": "Burton",
+      "year": 2025,
+      "gender": "women",
+      "price_usd": 399,
+      "image": "",
+      "lengths": [
+        142,
+        144,
+        146,
+        148,
+        150,
+        152
+      ],
+      "flex": 3,
+      "profile": "flat-top",
+      "shape": "directional-twin",
+      "waist_width_mm": {
+        "144": 238,
+        "148": 241,
+        "152": 244
+      },
+      "terrain": [
+        "groomed",
+        "all-mountain"
+      ],
+      "style": [
+        "groundtrick",
+        "all-mountain"
+      ],
+      "level": [
+        "beginner",
+        "intermediate"
+      ],
+      "weight_range_kg": {
+        "min": 40,
+        "max": 70
+      },
+      "height_range_cm": {
+        "min": 150,
+        "max": 175
+      },
+      "description_en": "Burton's most popular women's board. Soft, forgiving, and fun — the Feather grows with beginner and intermediate women riders.",
+      "description_zh": "Burton 最受欢迎的女款板，软弹包容，适合初级到中级女性骑手，入门首选。",
+      "pros_en": [
+        "Women-specific flex pattern",
+        "Forgiving for learning",
+        "Lightweight"
+      ],
+      "pros_zh": [
+        "专为女性设计的 flex 分布",
+        "容错率高，适合学习",
+        "轻量化"
+      ],
+      "cons_en": [
+        "Too soft for advanced riders",
+        "Limited performance"
+      ],
+      "cons_zh": [
+        "高水平骑手会觉得太软",
+        "性能有上限"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/burton-feather-snowboard-womens",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "women",
+        "beginner",
+        "intermediate",
+        "all-mountain",
+        "burton",
+        "soft"
+      ]
+    },
+    {
+      "id": "roxy-torah-bright-2025",
+      "name": "Torah Bright",
+      "brand": "Roxy",
+      "year": 2025,
+      "gender": "women",
+      "price_usd": 499,
+      "image": "",
+      "lengths": [
+        141,
+        144,
+        147,
+        150,
+        153
+      ],
+      "flex": 5,
+      "profile": "camber",
+      "shape": "directional-twin",
+      "waist_width_mm": {
+        "144": 237,
+        "147": 240,
+        "150": 243
+      },
+      "terrain": [
+        "groomed",
+        "all-mountain",
+        "park"
+      ],
+      "style": [
+        "all-mountain"
+      ],
+      "level": [
+        "intermediate",
+        "advanced"
+      ],
+      "weight_range_kg": {
+        "min": 48,
+        "max": 72
+      },
+      "height_range_cm": {
+        "min": 155,
+        "max": 178
+      },
+      "description_en": "Torah Bright's pro-model for women who want performance. Camber-driven response with a women-specific flex that rewards technical riding.",
+      "description_zh": "Torah Bright 签名款女性高性能板，Camber 板型提供精准响应，女性专属 flex 分布奖励技术骑行。",
+      "pros_en": [
+        "High performance for women",
+        "Precise camber edge hold",
+        "Versatile"
+      ],
+      "pros_zh": [
+        "女性高性能首选",
+        "Camber 锁雪精准",
+        "多用途"
+      ],
+      "cons_en": [
+        "Less forgiving than softer options",
+        "Overkill for beginners"
+      ],
+      "cons_zh": [
+        "比软板容错率低",
+        "初学者过于激进"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/roxy-torah-bright-snowboard-womens",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "women",
+        "intermediate",
+        "advanced",
+        "all-mountain",
+        "camber",
+        "roxy"
+      ]
+    },
+    {
+      "id": "salomon-lotus-2025",
+      "name": "Lotus",
+      "brand": "Salomon",
+      "year": 2025,
+      "gender": "women",
+      "price_usd": 449,
+      "image": "",
+      "lengths": [
+        140,
+        143,
+        146,
+        149,
+        152
+      ],
+      "flex": 4,
+      "profile": "hybrid-rocker",
+      "shape": "directional-twin",
+      "waist_width_mm": {
+        "143": 237,
+        "146": 240,
+        "149": 242
+      },
+      "terrain": [
+        "groomed",
+        "all-mountain",
+        "park"
+      ],
+      "style": [
+        "all-mountain",
+        "groundtrick"
+      ],
+      "level": [
+        "beginner",
+        "intermediate"
+      ],
+      "weight_range_kg": {
+        "min": 42,
+        "max": 68
+      },
+      "height_range_cm": {
+        "min": 152,
+        "max": 175
+      },
+      "description_en": "Salomon's all-rounder for women. Fun, versatile, and accessible — a great board for women progressing from beginner to intermediate.",
+      "description_zh": "Salomon 女款全能板，有趣多样，适合从初级向中级进阶的女性骑手。",
+      "pros_en": [
+        "Great value for women",
+        "Versatile all-mountain",
+        "Fun and playful"
+      ],
+      "pros_zh": [
+        "女性性价比之选",
+        "全山多用途",
+        "趣味十足"
+      ],
+      "cons_en": [
+        "Not for advanced riders",
+        "Hybrid profile less precise than camber"
+      ],
+      "cons_zh": [
+        "高级骑手不适合",
+        "混合板型不如纯 Camber 精准"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/salomon-lotus-snowboard-womens",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "women",
+        "beginner",
+        "intermediate",
+        "all-mountain",
+        "salomon"
+      ]
+    },
+    {
+      "id": "libtech-travis-rice-pro-2025",
+      "name": "Travis Rice Pro",
+      "brand": "Lib Tech",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 769,
+      "image": "",
+      "lengths": [
+        153,
+        156,
+        158,
+        161,
+        163,
+        166
+      ],
+      "flex": 8,
+      "profile": "c2",
+      "shape": "directional",
+      "waist_width_mm": {
+        "156": 255,
+        "161": 259,
+        "166": 263
+      },
+      "terrain": [
+        "backcountry",
+        "all-mountain",
+        "groomed"
+      ],
+      "style": [
+        "carving"
+      ],
+      "level": [
+        "expert"
+      ],
+      "weight_range_kg": {
+        "min": 72,
+        "max": 105
+      },
+      "height_range_cm": {
+        "min": 173,
+        "max": 200
+      },
+      "description_en": "Travis Rice's pro model — a board built for the world's best terrain. Stiff, powerful, and unrelenting. Only for expert riders who charge hard.",
+      "description_zh": "Travis Rice 亲笔签名旗舰款，为世界顶级地形打造，硬、强、无情，只推荐给最激进的专家级骑手。",
+      "pros_en": [
+        "Extremely powerful",
+        "Handles any terrain",
+        "Premium materials"
+      ],
+      "pros_zh": [
+        "爆发力极强",
+        "驾驭任何地形",
+        "顶级材料工艺"
+      ],
+      "cons_en": [
+        "Very expensive",
+        "Punishing for non-experts"
+      ],
+      "cons_zh": [
+        "价格昂贵",
+        "非专家级骑手会非常吃力"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/lib-tech-travis-rice-pro-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "freeride",
+        "expert",
+        "big-mountain",
+        "lib-tech",
+        "advanced",
+        "stiff"
+      ]
+    },
+    {
+      "id": "jones-mountain-twin-2025",
+      "name": "Mountain Twin",
+      "brand": "Jones",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 549,
+      "image": "",
+      "lengths": [
+        152,
+        154,
+        156,
+        158,
+        160,
+        162
+      ],
+      "flex": 6,
+      "profile": "camber",
+      "shape": "true-twin",
+      "waist_width_mm": {
+        "154": 252,
+        "158": 255,
+        "162": 258
+      },
+      "terrain": [
+        "groomed",
+        "all-mountain",
+        "park"
+      ],
+      "style": [
+        "all-mountain",
+        "park"
+      ],
+      "level": [
+        "intermediate",
+        "advanced"
+      ],
+      "weight_range_kg": {
+        "min": 58,
+        "max": 92
+      },
+      "height_range_cm": {
+        "min": 162,
+        "max": 192
+      },
+      "description_en": "Jones' true twin all-mountain board. Camber pop, twin shape, and Jones' eco-friendly construction — a board for riders who want everything.",
+      "description_zh": "Jones 双向全山板，Camber 弹跳 + 双向设计 + 环保工艺，适合追求全方位体验的骑手。",
+      "pros_en": [
+        "True twin versatility",
+        "Strong camber response",
+        "Eco-friendly"
+      ],
+      "pros_zh": [
+        "真正双向全能",
+        "Camber 响应强劲",
+        "环保制造"
+      ],
+      "cons_en": [
+        "Slightly heavier",
+        "Not a park specialist"
+      ],
+      "cons_zh": [
+        "稍偏重",
+        "非公园专属"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/jones-mountain-twin-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "all-mountain",
+        "twin",
+        "camber",
+        "jones",
+        "intermediate",
+        "advanced"
+      ]
+    },
+    {
+      "id": "rome-sds-agent-2025",
+      "name": "Agent",
+      "brand": "Rome SDS",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 449,
+      "image": "",
+      "lengths": [
+        148,
+        150,
+        152,
+        154,
+        156,
+        158
+      ],
+      "flex": 5,
+      "profile": "hybrid-camber",
+      "shape": "directional-twin",
+      "waist_width_mm": {
+        "150": 249,
+        "154": 252,
+        "158": 255
+      },
+      "terrain": [
+        "groomed",
+        "park",
+        "all-mountain"
+      ],
+      "style": [
+        "all-mountain",
+        "park"
+      ],
+      "level": [
+        "intermediate",
+        "advanced"
+      ],
+      "weight_range_kg": {
+        "min": 55,
+        "max": 85
+      },
+      "height_range_cm": {
+        "min": 160,
+        "max": 185
+      },
+      "description_en": "Rome's versatile all-mountain freestyle board. Balanced hybrid camber delivers pop without being too catchy — a solid everyday rider.",
+      "description_zh": "Rome 全山自由式全能板，平衡的混合 Camber 提供弹跳感，同时减少挂刃风险，日常骑行首选。",
+      "pros_en": [
+        "Well-rounded performance",
+        "Good value",
+        "Playful yet responsive"
+      ],
+      "pros_zh": [
+        "性能均衡",
+        "性价比出色",
+        "既有趣又灵敏"
+      ],
+      "cons_en": [
+        "Jack of all trades, master of none",
+        "Less distinctive feel"
+      ],
+      "cons_zh": [
+        "样样都会，样样不精",
+        "个性不够突出"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/rome-agent-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "all-mountain",
+        "freestyle",
+        "hybrid-camber",
+        "rome",
+        "intermediate",
+        "advanced"
+      ]
+    },
+    {
+      "id": "capita-mercury-2025",
+      "name": "Mercury",
+      "brand": "Capita",
+      "year": 2025,
+      "gender": "unisex",
+      "price_usd": 599,
+      "image": "",
+      "lengths": [
+        152,
+        154,
+        156,
+        158,
+        160,
+        162
+      ],
+      "flex": 7,
+      "profile": "camber",
+      "shape": "directional",
+      "waist_width_mm": {
+        "154": 251,
+        "158": 254,
+        "162": 257
+      },
+      "terrain": [
+        "groomed",
+        "all-mountain",
+        "backcountry"
+      ],
+      "style": [
+        "carving",
+        "all-mountain"
+      ],
+      "level": [
+        "advanced",
+        "expert"
+      ],
+      "weight_range_kg": {
+        "min": 65,
+        "max": 98
+      },
+      "height_range_cm": {
+        "min": 168,
+        "max": 196
+      },
+      "description_en": "Capita's premium freeride charger. Stiff camber construction built for riders who want raw power and precision on demanding terrain.",
+      "description_zh": "Capita 高端自由骑板，硬质 Camber 结构为追求原始力量和精准感的骑手而生，适合高难度地形。",
+      "pros_en": [
+        "Explosive power",
+        "Precise on steep terrain",
+        "Premium build"
+      ],
+      "pros_zh": [
+        "爆发力惊人",
+        "大坡度地形精准掌控",
+        "顶级做工"
+      ],
+      "cons_en": [
+        "Not for beginners or intermediates",
+        "Less forgiving"
+      ],
+      "cons_zh": [
+        "初中级骑手不适合",
+        "容错率低"
+      ],
+      "retailers": {
+        "evo": {
+          "url": "https://www.evo.com/snowboards/capita-mercury-snowboard",
+          "in_stock": true
+        }
+      },
+      "seo_tags": [
+        "freeride",
+        "all-mountain",
+        "camber",
+        "capita",
+        "advanced",
+        "expert",
+        "stiff"
+      ]
+    }
+  ]
+}
