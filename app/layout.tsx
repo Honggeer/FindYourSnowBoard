@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   description:
     "Smart snowboard recommendation tool. Enter your height, weight, riding style and budget to find your perfect board. 智能单板推荐，输入你的参数即可匹配。",
   keywords: "snowboard recommendation, find snowboard, 单板推荐, 雪板匹配",
+  other: {
+    "impact-site-verification": "63db3ec4-101c-458b-b97c-63e2b5800327",
+  },
 };
 
 export default function RootLayout({
