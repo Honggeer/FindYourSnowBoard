@@ -18,6 +18,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <script type="text/javascript" src="http://classic.avantlink.com/affiliate_app_confirm.php?mode=js&authResponse=10077465e6da9c3c282009f2a0e6ca39fbaf2eb3"></script>
+      </head>
       <body className="min-h-screen relative">
         <div className="mountain-bg" />
         <Snowflakes />
